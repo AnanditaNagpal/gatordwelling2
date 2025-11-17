@@ -6,7 +6,7 @@ Advanced student housing platform for University of Florida.
 
 This project benefits from collaborative development efforts:
 
-- **Lead Developer**: Priyam Thakkar (@priyamthakkar2001) - AI/ML Engineering & Backend
+- **Lead Developer**: Anandita Nagpal (@ananditanagpal) - AI/ML Engineering & Backend
 - **Collaborator**: Kushagra Sikka (@KushagraSikka) - Full-Stack Development & Analytics
 
 ### Joint Achievements
